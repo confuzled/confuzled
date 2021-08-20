@@ -7,7 +7,7 @@ Hi there 👋
 
 👯 I’m looking to collaborate on anything realy
 
-🤔 I’m looking for help with learning bash
+🤔 I’m looking for help with clippy reborn
 
 💬 Ask me about anything
 
@@ -15,4 +15,4 @@ Hi there 👋
 
 😄 pronouns: thing/ that
 
-⚡ Fun fact: the average shrimp has 10 legs
+⚡ Fun fact: i accidentally learnt bash
